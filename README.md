@@ -1,5 +1,4 @@
-[![MasterHead](https://unsplash.com/photos/oqStl2L5oxI
-https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=clark-tibbs-oqStl2L5oxI-unsplash.jpg)](your GitHub link)
+[![MasterHead](https://github.com/smiigoindani/smiigoindani/blob/main/clark-tibbs-oqStl2L5oxI-unsplash.jpg)](https://github.com/smiigoindani)
 
 ### Hi there 👋
 
