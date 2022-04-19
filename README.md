@@ -2,6 +2,9 @@
 
 ### Hi there 👋
 
+My name is Simran Goindani.I'm currently pursuing Masters in Data Science at Northeastern University.
+
+
 <!--
 **smiigoindani/smiigoindani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
